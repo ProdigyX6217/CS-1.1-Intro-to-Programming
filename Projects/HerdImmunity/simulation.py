@@ -6,29 +6,22 @@ from virus import Virus
 
 
 class Simulation(object):
-    ''' Main class that will run the herd immunity simulation program.
-    Expects initialization parameters passed as command line arguments when file is run.
-
-    Simulates the spread of a virus through a given population.  The percentage of the
-    population that are vaccinated, the size of the population, and the amount of initially
-    infected people in a population are all variables that can be set when the program is run.
+    ''' Main class that Simulates the Virus spread through a given population.. Expects init params passed as CMD line arguments when file is run.
+        Percentage of Vac. Population, Population Size, and Amount of Init. Infected are Var(s) set when program is run.
     '''
     def __init__(self, pop_size, vacc_percentage, initial_infected=1, virus):
-        ''' Logger object logger records all events during the simulation.
-        Population represents all Persons in the population.
-        The next_person_id is the next available id for all created Persons,
-        and should have a unique _id value.
-        The vaccination percentage represents the total percentage of population
-        vaccinated at the start of the simulation.
-        You will need to keep track of the number of people currently infected with the disease.
-        The total infected people is the running total that have been infected since the
-        simulation began, including the currently infected people who died.
-        You will also need to keep track of the number of people that have die as a result
-        of the infection.
+        ''' Logger object records all events during the simulation.
+            Population represents all Persons in the population.
+            The next_person_id is the next available id for all created Persons and should have a unique _id value.
+            The vacc_percentage represents the total percentage of population vaccinated at the start of the simulation.
+            Keep track of the number of people currently infected with the disease.
+            Total Infected People is the total infected since simulation began, including the currently infected people who died.
+            Keep track of the number of people that died from infection.
 
         All arguments will be passed as command-line arguments when the file is run.
         HINT: Look in the if __name__ == "__main__" function at the bottom.
         '''
+
         # TODO: Create a Logger object and bind it to self.logger.
         # Remember to call the appropriate logger method in the corresponding parts of the simulation.
         # TODO: Call self._create_population() and pass in the correct parameters.
@@ -36,7 +29,7 @@ class Simulation(object):
         # TODO: Store each newly infected person's ID in newly_infected attribute.
         # At the end of each time step, call self._infect_newly_infected()
         # and then reset .newly_infected back to an empty list.
-        self.logger = None
+        self.logger = Logger('log.txt')
         self.population = [] # List of Person objects
         self.pop_size = pop_size # Int
         self.next_person_id = 0 # Int
@@ -49,6 +42,7 @@ class Simulation(object):
         self.file_name = "{}_simulation_pop_{}_vp_{}_infected_{}.txt".format(
             virus_name, population_size, vacc_percentage, initial_infected)
         self.newly_infected = []
+        self.logger.write_metadata()
 
     def _create_population(self, initial_infected):
         '''This method will create the initial population.
