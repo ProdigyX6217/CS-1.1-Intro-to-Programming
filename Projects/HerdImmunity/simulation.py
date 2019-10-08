@@ -117,10 +117,10 @@ class Simulation(object):
             person1 (person): The initial infected person
             random_person (person): The person that person1 interacts with.
         '''
-        # Assert statements are included to make sure that only living people are passed
-        # in as params
+        # Assert statements are included to make sure that only living people are passed in as params
         assert person.is_alive == True
         assert random_person.is_alive == True
+
 
         # TODO: Finish this method.
         #  The possible cases you'll need to cover are listed below:
@@ -133,12 +133,20 @@ class Simulation(object):
             #     than repro_rate, random_person's ID should be appended to
             #     Simulation object's newly_infected array, so that their .infected
             #     attribute can be changed to True at the end of the time step.
-        # TODO: Call slogger method during this method.
+        # TODO: Calls logger method during this method.
+        # self.logger.log_interaction(person, random_person, random_person_sick='is alreadysick', did_infect=False)
+        # self.logger.log_interaction(person, random_person_vacc='is vaccinated', did_infect=False)
+
         pass
 
     def _infect_newly_infected(self):
         ''' This method should iterate through the list of ._id stored in self.newly_infected
         and update each Person object with the disease. '''
+        for person in self.population:
+            if person_id in self.newly_infected():
+                person.infection = self.virus
+            self.newly_infected.clear()
+
         # TODO: Call this method at the end of every time step and infect each Person.
         # TODO: Once you have iterated through the entire list of self.newly_infected, remember
         # to reset self.newly_infected back to an empty list.
