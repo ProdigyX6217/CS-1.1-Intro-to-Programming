@@ -1,0 +1,1012 @@
+5	0.9	Polio	0.7	0.25
+4 didn't infect 0 because already vaccinated 
+4 didn't infect 2 because already vaccinated 
+4 didn't infect 1 
+4 didn't infect 4 because already sick 
+4 didn't infect 3 because already vaccinated 
+4 didn't infect 0 because already vaccinated 
+4 didn't infect 4 
+4 didn't infect 4 because already sick 
+4 didn't infect 4 
+4 didn't infect 3 
+4 didn't infect 0 
+4 didn't infect 1 
+4 didn't infect 2 
+4 didn't infect 1 
+4 didn't infect 2 because already vaccinated 
+4 didn't infect 3 because already vaccinated 
+4 didn't infect 2 
+4 didn't infect 0 
+4 didn't infect 4 because already sick 
+4 didn't infect 3 because already vaccinated 
+4 didn't infect 2 
+4 didn't infect 4 
+4 didn't infect 2 
+4 didn't infect 0 because already vaccinated 
+4 didn't infect 1 
+4 didn't infect 0 
+4 didn't infect 0 
+4 didn't infect 3 
+4 didn't infect 2 because already vaccinated 
+4 didn't infect 2 because already vaccinated 
+4 didn't infect 2 
+4 didn't infect 0 
+4 didn't infect 1 
+4 didn't infect 1 because already vaccinated 
+4 didn't infect 3 
+4 didn't infect 4 because already sick 
+4 didn't infect 2 
+4 didn't infect 0 because already vaccinated 
+4 didn't infect 0 
+4 didn't infect 3 
+4 didn't infect 1 
+4 didn't infect 4 
+4 didn't infect 2 because already vaccinated 
+4 didn't infect 3 
+4 didn't infect 3 because already vaccinated 
+4 didn't infect 1 because already vaccinated 
+4 didn't infect 4 
+4 didn't infect 4 
+4 didn't infect 4 
+4 didn't infect 1 
+4 didn't infect 1 
+4 didn't infect 0 
+4 didn't infect 0 because already vaccinated 
+4 didn't infect 1 
+4 didn't infect 3 
+4 didn't infect 3 
+4 didn't infect 3 
+4 didn't infect 4 
+4 didn't infect 0 
+4 didn't infect 0 
+4 didn't infect 4 
+4 didn't infect 2 because already vaccinated 
+4 didn't infect 3 because already vaccinated 
+4 didn't infect 0 
+4 didn't infect 2 
+4 didn't infect 1 
+4 didn't infect 0 
+4 didn't infect 2 
+4 didn't infect 4 
+4 didn't infect 1 
+4 didn't infect 1 
+4 didn't infect 4 
+4 didn't infect 4 
+4 didn't infect 0 because already vaccinated 
+4 didn't infect 2 
+4 didn't infect 2 because already vaccinated 
+4 didn't infect 1 
+4 didn't infect 0 because already vaccinated 
+4 didn't infect 3 
+4 didn't infect 4 
+4 didn't infect 1 
+4 didn't infect 4 because already sick 
+4 didn't infect 4 
+4 didn't infect 3 
+4 didn't infect 4 
+4 didn't infect 1 
+4 didn't infect 3 
+4 didn't infect 2 
+4 didn't infect 4 
+4 didn't infect 1 because already vaccinated 
+4 didn't infect 2 because already vaccinated 
+4 didn't infect 4 because already sick 
+4 didn't infect 1 because already vaccinated 
+4 didn't infect 0 because already vaccinated 
+4 didn't infect 0 
+4 didn't infect 0 
+4 didn't infect 2 
+4 didn't infect 1 
+4 didn't infect 4 
+4 didn't infect 1 
+5 didn't infect 3 because already vaccinated 
+5 didn't infect 0 
+5 didn't infect 2 
+5 didn't infect 3 
+5 didn't infect 0 
+5 didn't infect 0 because already vaccinated 
+5 didn't infect 2 
+5 didn't infect 0 because already vaccinated 
+5 didn't infect 1 
+5 didn't infect 1 
+5 didn't infect 2 
+5 didn't infect 0 
+5 didn't infect 4 because already sick 
+5 didn't infect 4 
+5 didn't infect 0 
+5 didn't infect 1 because already vaccinated 
+5 didn't infect 3 
+5 didn't infect 3 
+5 didn't infect 1 
+5 didn't infect 3 
+5 didn't infect 3 
+5 didn't infect 4 
+5 didn't infect 3 because already vaccinated 
+5 didn't infect 2 because already vaccinated 
+5 didn't infect 0 
+5 didn't infect 4 because already sick 
+5 didn't infect 2 because already vaccinated 
+5 didn't infect 4 
+5 didn't infect 4 because already sick 
+5 didn't infect 4 because already sick 
+5 didn't infect 1 because already vaccinated 
+5 didn't infect 0 
+5 didn't infect 1 
+5 didn't infect 4 because already sick 
+5 didn't infect 4 because already sick 
+5 didn't infect 0 
+5 didn't infect 4 
+5 didn't infect 2 
+5 didn't infect 1 
+5 didn't infect 2 because already vaccinated 
+5 didn't infect 3 because already vaccinated 
+5 didn't infect 2 
+5 didn't infect 0 because already vaccinated 
+5 didn't infect 4 
+5 didn't infect 0 because already vaccinated 
+5 didn't infect 1 
+5 didn't infect 1 
+5 didn't infect 0 
+5 didn't infect 2 
+5 didn't infect 3 
+5 didn't infect 2 
+5 didn't infect 4 because already sick 
+5 didn't infect 4 
+5 didn't infect 0 
+5 didn't infect 1 
+5 didn't infect 0 
+5 didn't infect 1 
+5 didn't infect 4 because already sick 
+5 didn't infect 2 because already vaccinated 
+5 didn't infect 2 
+5 didn't infect 2 
+5 didn't infect 0 because already vaccinated 
+5 didn't infect 3 
+5 didn't infect 0 because already vaccinated 
+5 didn't infect 1 
+5 didn't infect 2 because already vaccinated 
+5 didn't infect 3 
+5 didn't infect 3 
+5 didn't infect 0 because already vaccinated 
+5 didn't infect 1 
+5 didn't infect 2 
+5 didn't infect 1 
+5 didn't infect 0 
+5 didn't infect 0 
+5 didn't infect 1 
+5 didn't infect 0 
+5 didn't infect 4 
+5 didn't infect 3 
+5 didn't infect 1 
+5 didn't infect 1 
+5 didn't infect 1 
+5 didn't infect 0 because already vaccinated 
+5 didn't infect 2 
+5 didn't infect 3 
+5 didn't infect 1 
+5 didn't infect 0 
+5 didn't infect 0 
+5 didn't infect 1 because already vaccinated 
+5 didn't infect 3 
+5 didn't infect 1 because already vaccinated 
+5 didn't infect 1 
+5 didn't infect 2 
+5 didn't infect 2 
+5 didn't infect 4 
+5 didn't infect 4 
+5 didn't infect 0 because already vaccinated 
+5 didn't infect 2 because already vaccinated 
+5 didn't infect 2 because already vaccinated 
+5 didn't infect 4 
+5 didn't infect 2 
+6 didn't infect 4 because already sick 
+6 didn't infect 4 because already sick 
+6 didn't infect 0 
+6 didn't infect 0 
+6 didn't infect 4 
+6 didn't infect 1 
+6 didn't infect 0 
+6 didn't infect 2 
+6 didn't infect 0 
+6 didn't infect 2 
+6 didn't infect 3 
+6 didn't infect 2 
+6 didn't infect 1 
+6 didn't infect 3 
+6 didn't infect 1 
+6 didn't infect 2 
+6 didn't infect 0 
+6 didn't infect 1 
+6 didn't infect 4 
+6 didn't infect 2 
+6 didn't infect 3 
+6 didn't infect 4 
+6 didn't infect 1 
+6 didn't infect 2 
+6 didn't infect 4 
+6 didn't infect 1 
+6 didn't infect 1 
+6 didn't infect 1 because already vaccinated 
+6 didn't infect 1 
+6 didn't infect 4 
+6 didn't infect 0 
+6 didn't infect 4 because already sick 
+6 didn't infect 3 
+6 didn't infect 1 because already vaccinated 
+6 didn't infect 0 
+6 didn't infect 0 
+6 didn't infect 1 because already vaccinated 
+6 didn't infect 4 
+6 didn't infect 4 because already sick 
+6 didn't infect 0 
+6 didn't infect 3 
+6 didn't infect 4 
+6 didn't infect 3 
+6 didn't infect 4 
+6 didn't infect 4 
+6 didn't infect 1 
+6 didn't infect 3 
+6 didn't infect 1 
+6 didn't infect 2 
+6 didn't infect 4 
+6 didn't infect 1 
+6 didn't infect 0 
+6 didn't infect 1 
+6 didn't infect 2 
+6 didn't infect 0 because already vaccinated 
+6 didn't infect 1 
+6 didn't infect 1 
+6 didn't infect 0 
+6 didn't infect 2 
+6 didn't infect 3 because already vaccinated 
+6 didn't infect 3 
+6 didn't infect 4 
+6 didn't infect 0 
+6 didn't infect 4 
+6 didn't infect 0 
+6 didn't infect 2 
+6 didn't infect 3 
+6 didn't infect 4 
+6 didn't infect 1 
+6 didn't infect 2 
+6 didn't infect 0 
+6 didn't infect 3 
+6 didn't infect 3 
+6 didn't infect 4 
+6 didn't infect 3 
+6 didn't infect 0 because already vaccinated 
+6 didn't infect 3 because already vaccinated 
+6 didn't infect 3 because already vaccinated 
+6 didn't infect 2 
+6 didn't infect 1 
+6 didn't infect 2 
+6 didn't infect 3 
+6 didn't infect 3 
+6 didn't infect 0 
+6 didn't infect 4 because already sick 
+6 didn't infect 2 because already vaccinated 
+6 didn't infect 0 
+6 didn't infect 0 
+6 didn't infect 1 because already vaccinated 
+6 didn't infect 0 
+6 didn't infect 1 because already vaccinated 
+6 didn't infect 0 
+6 didn't infect 1 
+6 didn't infect 2 
+6 didn't infect 1 
+6 didn't infect 0 
+6 didn't infect 1 
+6 didn't infect 0 
+6 didn't infect 2 
+6 didn't infect 3 
+7 didn't infect 1 because already vaccinated 
+7 didn't infect 1 because already vaccinated 
+7 didn't infect 2 
+7 didn't infect 4 
+7 didn't infect 4 
+7 didn't infect 2 
+7 didn't infect 2 because already vaccinated 
+7 didn't infect 2 because already vaccinated 
+7 didn't infect 3 
+7 didn't infect 0 
+7 didn't infect 2 
+7 didn't infect 3 
+7 didn't infect 3 because already vaccinated 
+7 didn't infect 4 
+7 didn't infect 2 
+7 didn't infect 4 
+7 didn't infect 3 
+7 didn't infect 4 
+7 didn't infect 1 
+7 didn't infect 0 
+7 didn't infect 3 because already vaccinated 
+7 didn't infect 3 
+7 didn't infect 3 
+7 didn't infect 3 
+7 didn't infect 1 
+7 didn't infect 2 
+7 didn't infect 2 
+7 didn't infect 4 
+7 didn't infect 2 
+7 didn't infect 4 
+7 didn't infect 0 because already vaccinated 
+7 didn't infect 3 
+7 didn't infect 1 
+7 didn't infect 3 
+7 didn't infect 0 because already vaccinated 
+7 didn't infect 1 
+7 didn't infect 1 
+7 didn't infect 4 
+7 didn't infect 4 
+7 didn't infect 3 
+7 didn't infect 4 
+7 didn't infect 3 
+7 didn't infect 2 because already vaccinated 
+7 didn't infect 1 
+7 didn't infect 4 
+7 didn't infect 1 because already vaccinated 
+7 didn't infect 3 
+7 didn't infect 4 
+7 didn't infect 4 
+7 didn't infect 0 
+7 didn't infect 2 because already vaccinated 
+7 didn't infect 1 
+7 didn't infect 4 because already sick 
+7 didn't infect 0 
+7 didn't infect 4 
+7 didn't infect 1 
+7 didn't infect 3 because already vaccinated 
+7 didn't infect 0 
+7 didn't infect 3 
+7 didn't infect 2 because already vaccinated 
+7 didn't infect 0 
+7 didn't infect 3 because already vaccinated 
+7 didn't infect 0 
+7 didn't infect 0 
+7 didn't infect 0 because already vaccinated 
+7 didn't infect 4 
+7 didn't infect 0 
+7 didn't infect 0 
+7 didn't infect 3 
+7 didn't infect 4 because already sick 
+7 didn't infect 4 
+7 didn't infect 3 
+7 didn't infect 4 
+7 didn't infect 2 
+7 didn't infect 0 
+7 didn't infect 0 
+7 didn't infect 1 
+7 didn't infect 2 
+7 didn't infect 1 because already vaccinated 
+7 didn't infect 4 because already sick 
+7 didn't infect 0 
+7 didn't infect 4 
+7 didn't infect 0 because already vaccinated 
+7 didn't infect 2 
+7 didn't infect 3 because already vaccinated 
+7 didn't infect 1 
+7 didn't infect 4 
+7 didn't infect 1 
+7 didn't infect 4 because already sick 
+7 didn't infect 1 
+7 didn't infect 1 because already vaccinated 
+7 didn't infect 1 
+7 didn't infect 4 
+7 didn't infect 4 
+7 didn't infect 3 because already vaccinated 
+7 didn't infect 2 
+7 didn't infect 2 
+7 didn't infect 3 
+7 didn't infect 4 because already sick 
+7 didn't infect 3 
+8 didn't infect 4 
+8 didn't infect 0 because already vaccinated 
+8 didn't infect 4 
+8 didn't infect 0 
+8 didn't infect 2 
+8 didn't infect 1 
+8 didn't infect 3 
+8 didn't infect 1 
+8 didn't infect 3 
+8 didn't infect 3 
+8 didn't infect 3 
+8 didn't infect 2 
+8 didn't infect 0 
+8 didn't infect 2 
+8 didn't infect 3 
+8 didn't infect 3 
+8 didn't infect 4 because already sick 
+8 didn't infect 0 
+8 didn't infect 2 because already vaccinated 
+8 didn't infect 3 
+8 didn't infect 0 
+8 didn't infect 4 
+8 didn't infect 0 because already vaccinated 
+8 didn't infect 2 
+8 didn't infect 3 
+8 didn't infect 0 because already vaccinated 
+8 didn't infect 4 because already sick 
+8 didn't infect 2 
+8 didn't infect 3 because already vaccinated 
+8 didn't infect 4 
+8 didn't infect 1 
+8 didn't infect 0 
+8 didn't infect 0 because already vaccinated 
+8 didn't infect 0 
+8 didn't infect 0 
+8 didn't infect 1 
+8 didn't infect 2 
+8 didn't infect 2 
+8 didn't infect 3 
+8 didn't infect 1 
+8 didn't infect 1 
+8 didn't infect 4 
+8 didn't infect 1 
+8 didn't infect 2 
+8 didn't infect 3 
+8 didn't infect 4 
+8 didn't infect 0 
+8 didn't infect 2 
+8 didn't infect 4 
+8 didn't infect 3 
+8 didn't infect 3 
+8 didn't infect 2 
+8 didn't infect 4 
+8 didn't infect 2 
+8 didn't infect 1 
+8 didn't infect 1 
+8 didn't infect 3 because already vaccinated 
+8 didn't infect 3 
+8 didn't infect 3 
+8 didn't infect 1 
+8 didn't infect 0 because already vaccinated 
+8 didn't infect 4 
+8 didn't infect 0 
+8 didn't infect 3 because already vaccinated 
+8 didn't infect 3 because already vaccinated 
+8 didn't infect 1 
+8 didn't infect 1 because already vaccinated 
+8 didn't infect 2 
+8 didn't infect 3 
+8 didn't infect 2 
+8 didn't infect 4 
+8 didn't infect 2 
+8 didn't infect 3 
+8 didn't infect 0 
+8 didn't infect 1 
+8 didn't infect 2 
+8 didn't infect 0 
+8 didn't infect 0 
+8 didn't infect 0 
+8 didn't infect 2 
+8 didn't infect 0 
+8 didn't infect 0 
+8 didn't infect 2 
+8 didn't infect 1 
+8 didn't infect 4 
+8 didn't infect 1 because already vaccinated 
+8 didn't infect 0 
+8 didn't infect 3 
+8 didn't infect 1 
+8 didn't infect 4 because already sick 
+8 didn't infect 3 
+8 didn't infect 3 
+8 didn't infect 0 
+8 didn't infect 3 
+8 didn't infect 4 because already sick 
+8 didn't infect 3 
+8 didn't infect 4 
+8 didn't infect 3 
+8 didn't infect 3 
+8 didn't infect 1 
+9 didn't infect 3 because already vaccinated 
+9 didn't infect 3 
+9 didn't infect 4 
+9 didn't infect 2 because already vaccinated 
+9 didn't infect 3 
+9 didn't infect 4 
+9 didn't infect 0 
+9 didn't infect 3 
+9 didn't infect 2 
+9 didn't infect 1 
+9 didn't infect 2 because already vaccinated 
+9 didn't infect 1 
+9 didn't infect 1 
+9 didn't infect 0 
+9 didn't infect 3 because already vaccinated 
+9 didn't infect 2 
+9 didn't infect 0 
+9 didn't infect 2 
+9 didn't infect 1 because already vaccinated 
+9 didn't infect 4 
+9 didn't infect 2 
+9 didn't infect 2 
+9 didn't infect 2 
+9 didn't infect 3 
+9 didn't infect 2 
+9 didn't infect 2 
+9 didn't infect 3 
+9 didn't infect 1 
+9 didn't infect 1 
+9 didn't infect 3 
+9 didn't infect 4 
+9 didn't infect 3 because already vaccinated 
+9 didn't infect 4 because already sick 
+9 didn't infect 2 
+9 didn't infect 2 
+9 didn't infect 2 because already vaccinated 
+9 didn't infect 1 
+9 didn't infect 4 
+9 didn't infect 4 
+9 didn't infect 4 because already sick 
+9 didn't infect 0 
+9 didn't infect 3 
+9 didn't infect 2 
+9 didn't infect 0 because already vaccinated 
+9 didn't infect 0 
+9 didn't infect 3 because already vaccinated 
+9 didn't infect 1 
+9 didn't infect 1 
+9 didn't infect 2 
+9 didn't infect 4 
+9 didn't infect 1 
+9 didn't infect 0 
+9 didn't infect 4 
+9 didn't infect 2 because already vaccinated 
+9 didn't infect 2 because already vaccinated 
+9 didn't infect 3 
+9 didn't infect 2 because already vaccinated 
+9 didn't infect 2 
+9 didn't infect 2 because already vaccinated 
+9 didn't infect 2 because already vaccinated 
+9 didn't infect 0 
+9 didn't infect 3 because already vaccinated 
+9 didn't infect 1 
+9 didn't infect 4 
+9 didn't infect 0 
+9 didn't infect 1 
+9 didn't infect 4 because already sick 
+9 didn't infect 4 because already sick 
+9 didn't infect 1 
+9 didn't infect 1 
+9 didn't infect 1 
+9 didn't infect 4 because already sick 
+9 didn't infect 1 
+9 didn't infect 4 
+9 didn't infect 1 because already vaccinated 
+9 didn't infect 0 because already vaccinated 
+9 didn't infect 2 
+9 didn't infect 1 
+9 didn't infect 0 because already vaccinated 
+9 didn't infect 0 because already vaccinated 
+9 didn't infect 3 
+9 didn't infect 0 
+9 didn't infect 2 
+9 didn't infect 0 
+9 didn't infect 1 
+9 didn't infect 0 
+9 didn't infect 4 
+9 didn't infect 0 because already vaccinated 
+9 didn't infect 3 
+9 didn't infect 3 
+9 didn't infect 3 
+9 didn't infect 3 because already vaccinated 
+9 didn't infect 0 
+9 didn't infect 1 because already vaccinated 
+9 didn't infect 2 
+9 didn't infect 4 
+9 didn't infect 2 
+9 didn't infect 4 
+9 didn't infect 3 
+9 didn't infect 3 because already vaccinated 
+10 didn't infect 0 
+10 didn't infect 4 
+10 didn't infect 1 
+10 didn't infect 1 
+10 didn't infect 3 
+10 didn't infect 0 
+10 didn't infect 2 
+10 didn't infect 2 
+10 didn't infect 3 because already vaccinated 
+10 didn't infect 0 because already vaccinated 
+10 didn't infect 0 
+10 didn't infect 2 
+10 didn't infect 4 because already sick 
+10 didn't infect 4 
+10 didn't infect 0 
+10 didn't infect 3 
+10 didn't infect 0 
+10 didn't infect 4 
+10 didn't infect 0 
+10 didn't infect 1 because already vaccinated 
+10 didn't infect 3 because already vaccinated 
+10 didn't infect 0 
+10 didn't infect 4 
+10 didn't infect 2 
+10 didn't infect 3 
+10 didn't infect 4 
+10 didn't infect 4 because already sick 
+10 didn't infect 2 because already vaccinated 
+10 didn't infect 2 
+10 didn't infect 2 
+10 didn't infect 2 because already vaccinated 
+10 didn't infect 1 
+10 didn't infect 3 because already vaccinated 
+10 didn't infect 0 because already vaccinated 
+10 didn't infect 4 because already sick 
+10 didn't infect 3 
+10 didn't infect 1 
+10 didn't infect 2 
+10 didn't infect 4 
+10 didn't infect 0 because already vaccinated 
+10 didn't infect 4 because already sick 
+10 didn't infect 0 
+10 didn't infect 3 
+10 didn't infect 3 
+10 didn't infect 1 
+10 didn't infect 0 
+10 didn't infect 0 
+10 didn't infect 4 
+10 didn't infect 2 because already vaccinated 
+10 didn't infect 3 
+10 didn't infect 0 because already vaccinated 
+10 didn't infect 2 
+10 didn't infect 1 
+10 didn't infect 2 
+10 didn't infect 0 
+10 didn't infect 3 because already vaccinated 
+10 didn't infect 3 
+10 didn't infect 1 
+10 didn't infect 2 because already vaccinated 
+10 didn't infect 0 
+10 didn't infect 3 
+10 didn't infect 2 
+10 didn't infect 4 
+10 didn't infect 3 
+10 didn't infect 3 because already vaccinated 
+10 didn't infect 2 because already vaccinated 
+10 didn't infect 4 
+10 didn't infect 2 because already vaccinated 
+10 didn't infect 0 because already vaccinated 
+10 didn't infect 4 
+10 didn't infect 0 
+10 didn't infect 2 
+10 didn't infect 1 
+10 didn't infect 1 because already vaccinated 
+10 didn't infect 0 
+10 didn't infect 1 
+10 didn't infect 2 
+10 didn't infect 1 because already vaccinated 
+10 didn't infect 1 
+10 didn't infect 1 
+10 didn't infect 0 because already vaccinated 
+10 didn't infect 3 
+10 didn't infect 4 
+10 didn't infect 3 
+10 didn't infect 4 
+10 didn't infect 4 
+10 didn't infect 2 because already vaccinated 
+10 didn't infect 0 
+10 didn't infect 2 
+10 didn't infect 4 because already sick 
+10 didn't infect 4 because already sick 
+10 didn't infect 3 
+10 didn't infect 0 
+10 didn't infect 2 because already vaccinated 
+10 didn't infect 0 
+10 didn't infect 4 
+10 didn't infect 4 
+10 didn't infect 0 
+10 didn't infect 4 
+10 didn't infect 2 
+11 didn't infect 4 because already sick 
+11 didn't infect 0 
+11 didn't infect 2 
+11 didn't infect 0 
+11 didn't infect 1 because already vaccinated 
+11 didn't infect 3 
+11 didn't infect 4 
+11 didn't infect 1 
+11 didn't infect 2 
+11 didn't infect 2 
+11 didn't infect 0 
+11 didn't infect 2 because already vaccinated 
+11 didn't infect 0 
+11 didn't infect 3 
+11 didn't infect 4 
+11 didn't infect 2 because already vaccinated 
+11 didn't infect 1 
+11 didn't infect 2 
+11 didn't infect 3 because already vaccinated 
+11 didn't infect 0 
+11 didn't infect 3 
+11 didn't infect 2 
+11 didn't infect 4 because already sick 
+11 didn't infect 3 
+11 didn't infect 0 
+11 didn't infect 1 
+11 didn't infect 2 
+11 didn't infect 3 because already vaccinated 
+11 didn't infect 1 because already vaccinated 
+11 didn't infect 2 
+11 didn't infect 0 
+11 didn't infect 4 
+11 didn't infect 4 because already sick 
+11 didn't infect 2 
+11 didn't infect 4 because already sick 
+11 didn't infect 3 because already vaccinated 
+11 didn't infect 1 
+11 didn't infect 4 
+11 didn't infect 1 
+11 didn't infect 0 
+11 didn't infect 1 
+11 didn't infect 4 
+11 didn't infect 3 because already vaccinated 
+11 didn't infect 1 
+11 didn't infect 3 
+11 didn't infect 1 
+11 didn't infect 4 
+11 didn't infect 3 
+11 didn't infect 3 
+11 didn't infect 3 
+11 didn't infect 1 
+11 didn't infect 1 
+11 didn't infect 0 
+11 didn't infect 2 
+11 didn't infect 0 
+11 didn't infect 4 
+11 didn't infect 2 because already vaccinated 
+11 didn't infect 1 
+11 didn't infect 4 because already sick 
+11 didn't infect 3 because already vaccinated 
+11 didn't infect 1 
+11 didn't infect 2 
+11 didn't infect 3 because already vaccinated 
+11 didn't infect 4 
+11 didn't infect 3 
+11 didn't infect 2 because already vaccinated 
+11 didn't infect 2 
+11 didn't infect 2 
+11 didn't infect 1 because already vaccinated 
+11 didn't infect 3 
+11 didn't infect 1 
+11 didn't infect 3 
+11 didn't infect 0 
+11 didn't infect 0 
+11 didn't infect 1 
+11 didn't infect 4 
+11 didn't infect 0 
+11 didn't infect 1 
+11 didn't infect 0 because already vaccinated 
+11 didn't infect 4 
+11 didn't infect 0 
+11 didn't infect 3 
+11 didn't infect 0 
+11 didn't infect 4 because already sick 
+11 didn't infect 1 
+11 didn't infect 0 
+11 didn't infect 1 
+11 didn't infect 1 
+11 didn't infect 0 
+11 didn't infect 2 because already vaccinated 
+11 didn't infect 4 
+11 didn't infect 4 
+11 didn't infect 3 
+11 didn't infect 0 
+11 didn't infect 2 
+11 didn't infect 0 
+11 didn't infect 0 
+11 didn't infect 0 
+11 didn't infect 2 because already vaccinated 
+11 didn't infect 2 
+12 didn't infect 1 
+12 didn't infect 3 
+12 didn't infect 3 
+12 didn't infect 1 because already vaccinated 
+12 didn't infect 3 because already vaccinated 
+12 didn't infect 1 because already vaccinated 
+12 didn't infect 1 
+12 didn't infect 2 
+12 didn't infect 4 
+12 didn't infect 4 
+12 didn't infect 0 
+12 didn't infect 1 
+12 didn't infect 0 
+12 didn't infect 2 
+12 didn't infect 2 
+12 didn't infect 3 
+12 didn't infect 3 
+12 didn't infect 1 
+12 didn't infect 3 
+12 didn't infect 4 
+12 didn't infect 0 
+12 didn't infect 0 
+12 didn't infect 1 
+12 didn't infect 2 because already vaccinated 
+12 didn't infect 2 
+12 didn't infect 2 
+12 didn't infect 3 because already vaccinated 
+12 didn't infect 3 
+12 didn't infect 0 
+12 didn't infect 2 
+12 didn't infect 3 
+12 didn't infect 0 because already vaccinated 
+12 didn't infect 3 
+12 didn't infect 1 
+12 didn't infect 1 
+12 didn't infect 3 because already vaccinated 
+12 didn't infect 0 because already vaccinated 
+12 didn't infect 2 
+12 didn't infect 4 because already sick 
+12 didn't infect 1 
+12 didn't infect 2 
+12 didn't infect 0 
+12 didn't infect 4 
+12 didn't infect 2 
+12 didn't infect 1 
+12 didn't infect 0 
+12 didn't infect 3 
+12 didn't infect 4 because already sick 
+12 didn't infect 2 
+12 didn't infect 1 
+12 didn't infect 2 
+12 didn't infect 3 because already vaccinated 
+12 didn't infect 1 
+12 didn't infect 3 because already vaccinated 
+12 didn't infect 3 
+12 didn't infect 2 
+12 didn't infect 0 
+12 didn't infect 2 
+12 didn't infect 1 
+12 didn't infect 1 
+12 didn't infect 4 because already sick 
+12 didn't infect 1 
+12 didn't infect 1 
+12 didn't infect 0 
+12 didn't infect 4 
+12 didn't infect 4 because already sick 
+12 didn't infect 0 because already vaccinated 
+12 didn't infect 3 
+12 didn't infect 3 
+12 didn't infect 3 
+12 didn't infect 0 because already vaccinated 
+12 didn't infect 2 
+12 didn't infect 3 
+12 didn't infect 4 
+12 didn't infect 4 
+12 didn't infect 1 
+12 didn't infect 1 
+12 didn't infect 0 
+12 didn't infect 4 because already sick 
+12 didn't infect 1 because already vaccinated 
+12 didn't infect 1 
+12 didn't infect 4 
+12 didn't infect 0 
+12 didn't infect 4 
+12 didn't infect 2 
+12 didn't infect 0 
+12 didn't infect 1 
+12 didn't infect 4 because already sick 
+12 didn't infect 4 
+12 didn't infect 4 
+12 didn't infect 4 because already sick 
+12 didn't infect 0 because already vaccinated 
+12 didn't infect 4 
+12 didn't infect 1 
+12 didn't infect 3 
+12 didn't infect 0 
+12 didn't infect 4 
+12 didn't infect 2 
+12 didn't infect 3 
+12 didn't infect 0 
+13 didn't infect 1 
+13 didn't infect 3 
+13 didn't infect 2 
+13 didn't infect 2 
+13 didn't infect 2 
+13 didn't infect 2 
+13 didn't infect 1 
+13 didn't infect 4 
+13 didn't infect 2 because already vaccinated 
+13 didn't infect 0 
+13 didn't infect 1 because already vaccinated 
+13 didn't infect 0 
+13 didn't infect 3 
+13 didn't infect 3 because already vaccinated 
+13 didn't infect 1 
+13 didn't infect 4 
+13 didn't infect 1 
+13 didn't infect 3 
+13 didn't infect 3 
+13 didn't infect 2 
+13 didn't infect 0 
+13 didn't infect 4 
+13 didn't infect 1 because already vaccinated 
+13 didn't infect 2 because already vaccinated 
+13 didn't infect 2 
+13 didn't infect 3 
+13 didn't infect 0 
+13 didn't infect 3 because already vaccinated 
+13 didn't infect 2 
+13 didn't infect 3 
+13 didn't infect 3 because already vaccinated 
+13 didn't infect 4 because already sick 
+13 didn't infect 4 
+13 didn't infect 3 
+13 didn't infect 4 
+13 didn't infect 4 
+13 didn't infect 0 because already vaccinated 
+13 didn't infect 0 
+13 didn't infect 2 
+13 didn't infect 2 
+13 didn't infect 1 
+13 didn't infect 3 
+13 didn't infect 0 because already vaccinated 
+13 didn't infect 2 
+13 didn't infect 4 
+13 didn't infect 4 
+13 didn't infect 1 
+13 didn't infect 4 
+13 didn't infect 3 
+13 didn't infect 2 
+13 didn't infect 4 
+13 didn't infect 4 
+13 didn't infect 4 
+13 didn't infect 0 
+13 didn't infect 0 
+13 didn't infect 4 
+13 didn't infect 0 
+13 didn't infect 2 
+13 didn't infect 4 
+13 didn't infect 0 
+13 didn't infect 1 
+13 didn't infect 4 
+13 didn't infect 3 because already vaccinated 
+13 didn't infect 1 because already vaccinated 
+13 didn't infect 0 because already vaccinated 
+13 didn't infect 3 
+13 didn't infect 1 
+13 didn't infect 1 
+13 didn't infect 4 
+13 didn't infect 0 
+13 didn't infect 4 because already sick 
+13 didn't infect 2 
+13 didn't infect 3 
+13 didn't infect 2 
+13 didn't infect 3 
+13 didn't infect 2 
+13 didn't infect 2 
+13 didn't infect 1 
+13 didn't infect 2 
+13 didn't infect 1 
+13 didn't infect 2 
+13 didn't infect 1 
+13 didn't infect 3 
+13 didn't infect 2 
+13 didn't infect 2 
+13 didn't infect 4 
+13 didn't infect 3 
+13 didn't infect 3 
+13 didn't infect 1 
+13 didn't infect 2 
+13 didn't infect 0 
+13 didn't infect 3 
+13 didn't infect 3 because already vaccinated 
+13 didn't infect 4 
+13 didn't infect 4 
+13 didn't infect 1 because already vaccinated 
+13 didn't infect 4 because already sick 
+13 didn't infect 0 
+13 didn't infect 4 because already sick 
+13 didn't infect 1 because already vaccinated 
+4 died from infection
+5 survived infection
+6 died from infection
+7 survived infection
+8 died from infection
+9 died from infection
+10 survived infection
+11 died from infection
+12 survived infection
+13 survived infection
+Time step 0 ended, beginning 1
