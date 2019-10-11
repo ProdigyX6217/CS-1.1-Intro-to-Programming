@@ -1,0 +1,75 @@
+_____________Metadata_File_______________
+100	 0.9	 Ebola	 0.7	 
+______________given_stats________________
+
+
+                Population Size: 100,
+        vaccination Percentage: 90.0%,
+                Name of the virus: Ebola,
+        Mortality rate of virus: 70.0%,
+basic reproduction rate of virus: 25.0%
+                    
+_____________________________________________
+0 does not infect 3 because they were already sick. 
+0 does not infect 4 because they were already sick. 
+0 does not infect 3 because they were already sick. 
+0 does not infect 3 because they were already sick. 
+0 does not infect 5 because they were already sick. 
+0 does not infect 8 because they were already sick. 
+0 does not infect 5 because they were already sick. 
+0 does not infect 9 because they were already sick. 
+1 does not infect 7 because they were already sick. 
+1 does not infect 4 because they were already sick. 
+1 does not infect 8 because they were already sick. 
+1 does not infect 6 because they were already sick. 
+1 does not infect 8 because they were already sick. 
+1 does not infect 2 because they were already sick. 
+2 does not infect 7 because they were already sick. 
+2 does not infect 8 because they were already sick. 
+2 does not infect 8 because they were already sick. 
+2 does not infect 9 because they were already sick. 
+2 does not infect 7 because they were already sick. 
+2 does not infect 8 because they were already sick. 
+2 does not infect 4 because they were already sick. 
+2 does not infect 9 because they were already sick. 
+2 does not infect 6 because they were already sick. 
+2 does not infect 7 because they were already sick. 
+3 does not infect 9 because they were already sick. 
+3 does not infect 6 because they were already sick. 
+3 does not infect 7 because they were already sick. 
+3 does not infect 7 because they were already sick. 
+3 does not infect 7 because they were already sick. 
+3 does not infect 7 because they were already sick. 
+3 does not infect 6 because they were already sick. 
+3 does not infect 7 because they were already sick. 
+3 does not infect 8 because they were already sick. 
+3 does not infect 8 because they were already sick. 
+3 does not infect 5 because they were already sick. 
+3 does not infect 9 because they were already sick. 
+3 does not infect 9 because they were already sick. 
+3 does not infect 8 because they were already sick. 
+4 does not infect 6 because they were already sick. 
+4 does not infect 5 because they were already sick. 
+4 does not infect 9 because they were already sick. 
+4 does not infect 5 because they were already sick. 
+4 does not infect 5 because they were already sick. 
+5 does not infect 8 because they were already sick. 
+5 does not infect 8 because they were already sick. 
+6 does not infect 9 because they were already sick. 
+6 does not infect 9 because they were already sick. 
+6 does not infect 8 because they were already sick. 
+7 does not infect 8 because they were already sick. 
+8 does not infect 9 because they were already sick. 
+
+)Time step 0 ended..
+0 people were infected
+7 people died
+0 total infected
+7 total dead
+1 beginning..
+)Time step 0 ended..
+0 people were infected
+7 people died
+0 total infected
+7 total dead
+1 beginning..
